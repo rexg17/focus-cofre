@@ -1,5 +1,7 @@
 # Motor financeiro
 
+🌐 [English](../en/FINANCIAL-ENGINE.md) · **Português** · [Español](../es/MOTOR-FINANCIERO.md) · [← README](../../README.pt-BR.md)
+
 Regras de negócio em `web/js/02-calculos.js`, `08-coach.js`, `09b-canal.js` e `09c-cerebro.js`.
 Tudo é calculado em euros; valores em outras moedas são convertidos pelo câmbio da transação.
 

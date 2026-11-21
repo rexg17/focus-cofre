@@ -1,5 +1,7 @@
 # Segurança e privacidade
 
+🌐 [English](../en/SECURITY-AND-PRIVACY.md) · **Português** · [Español](../es/SEGURIDAD-Y-PRIVACIDAD.md) · [← README](../../README.pt-BR.md)
+
 ## Modelo de ameaça
 
 O app é local: o risco principal é **outra página ou programa tentar usar o servidor local** ou **dados saírem do

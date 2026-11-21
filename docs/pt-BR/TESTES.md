@@ -1,5 +1,7 @@
 # Testes
 
+🌐 [English](../en/TESTING.md) · **Português** · [Español](../es/PRUEBAS.md) · [← README](../../README.pt-BR.md)
+
 Estratégia em camadas. Cada camada pega um tipo diferente de erro.
 
 | Camada | Onde | O que cobre | Quantidade |

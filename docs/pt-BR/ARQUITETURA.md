@@ -1,5 +1,7 @@
 # Arquitetura
 
+🌐 [English](../en/ARCHITECTURE.md) · **Português** · [Español](../es/ARQUITECTURA.md) · [← README](../../README.pt-BR.md)
+
 ## Visão geral
 
 O Focus Cofre é uma aplicação **local-first**: um servidor HTTP mínimo escuta só em `127.0.0.1`, serve a interface

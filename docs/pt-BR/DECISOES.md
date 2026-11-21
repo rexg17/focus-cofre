@@ -1,5 +1,7 @@
 # Decisões de projeto
 
+🌐 [English](../en/DESIGN-DECISIONS.md) · **Português** · [Español](../es/DECISIONES.md) · [← README](../../README.pt-BR.md)
+
 Cada decisão registra o contexto, a escolha e o preço pago por ela.
 
 ## 1. Local-first com SQLite
