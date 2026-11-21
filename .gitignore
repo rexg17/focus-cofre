@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+dist/
+build_cache/
+*.db
+*.db-wal
+*.db-shm
+settings.json
+instancia.json
+erro.log
+e2edata/
+.DS_Store
