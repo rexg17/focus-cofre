@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Focus Cofre</title>
+<meta name="cofre-token" content="__COFRE_TOKEN__">
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500;600;700&family=Inter:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand"><div class="logo" aria-hidden="true">€</div>
+      <div><h1>Focus Cofre</h1><div class="path">~/finanças · entradas, saídas e investimentos</div></div>
+    </div>
+    <div class="month">
+      <button class="icon" id="prev" aria-label="Mês anterior">‹</button>
+      <strong id="monthLabel" style="min-width:130px;text-align:center"></strong>
+      <button class="icon" id="next" aria-label="Próximo mês">›</button>
+    </div>
+  </header>
+  <div id="banner"></div>
+  <nav role="tablist" id="tabs"></nav>
+  <main id="view" class="wrap" style="gap:16px"></main>
+  <footer id="status"></footer>
+  <p class="disc"><span id="where"></span> Projeções e sugestões são estimativas educativas, não garantem rendimento e não substituem um planejador financeiro.</p>
+</div>
+<script src="js/01-base.js"></script>
+<script src="js/02-calculos.js"></script>
+<script src="js/03-graficos-dicas.js"></script>
+<script src="js/04-telas-base.js"></script>
+<script src="js/05-extrato-importacao.js"></script>
+<script src="js/06-trabalho-pessoal.js"></script>
+<script src="js/07-investir-simulador.js"></script>
+<script src="js/08-coach.js"></script>
+<script src="js/09-caixa-ajustes.js"></script>
+<script src="js/09b-canal.js"></script>
+<script src="js/09c-cerebro.js"></script>
+<script src="js/09d-llm.js"></script>
+<script src="js/10-eventos.js"></script>
+<script src="js/11-boot.js"></script>
+</body>
+</html>
